@@ -1,1 +1,1 @@
-# zh-tests
+tests
